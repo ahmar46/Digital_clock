@@ -10,7 +10,7 @@ body {
     left: 50%;
     position: absolute;
     transform: translate(-50%, -50%);
-    background: rgb(53, 50, 50);
+    background: rgb(0, 0, 0);
 }
 
 h2 {
@@ -37,7 +37,7 @@ div label {
     position: relative;
     width: 100px;
     height: 80px;
-    background: linear-gradient(to right, #111, #fff);
+    background: linear-gradient(to right, rgb(155, 144, 144), #fff);
     color: #111;
     font-weight: 550;
     display: flex;
@@ -64,9 +64,9 @@ div label:nth-child(2) {
     font-size: 0.7em;
     letter-spacing: 0.2em;
     z-index: 9;
-    color: #111;
+    color: rgb(0, 0, 0);
     text-transform: uppercase;
-    background: linear-gradient(to right, #111, #fff);
+    background: linear-gradient(to right, rgb(131, 124, 124), #fff);
     top: 1px;
 }
 
@@ -76,7 +76,7 @@ div label:nth-child(2) {
 
 .hrs:hover {
     transform: scale(1.1);
-    background: #fff;
+    background: rgb(0, 0, 0);
 }
 
 .mint {
