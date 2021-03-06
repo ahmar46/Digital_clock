@@ -1,4 +1,4 @@
-### This is a nice looking dig
+### This is a nice looking digi
 
 ### Follow me on instagram - @electrifying_codes
 
