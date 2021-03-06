@@ -1,4 +1,4 @@
-### This is a nic
+### This is a nice
 
 ### Follow me on instagram - @electrifying_codes
 
