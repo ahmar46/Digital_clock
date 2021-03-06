@@ -1,4 +1,4 @@
-### This is a ni
+### This is a nic
 
 ### Follow me on instagram - @electrifying_codes
 
