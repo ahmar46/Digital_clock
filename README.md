@@ -1,4 +1,4 @@
-### This is a nice looking d
+### This is a nice looking di
 
 ### Follow me on instagram - @electrifying_codes
 
