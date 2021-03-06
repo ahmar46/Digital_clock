@@ -1,4 +1,4 @@
-### This is a nice looki
+### This is a nice lookin
 
 ### Follow me on instagram - @electrifying_codes
 
