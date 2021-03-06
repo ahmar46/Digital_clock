@@ -1,4 +1,4 @@
-### A nice looking digital clock made for my instagram page
+### T
 
 ### Follow me on instagram - @electrifying_codes
 
