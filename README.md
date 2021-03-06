@@ -1,4 +1,4 @@
-### This is a nice lo
+### This is a nice loo
 
 ### Follow me on instagram - @electrifying_codes
 
