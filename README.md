@@ -4,4 +4,4 @@
 
 ### Technologies used :- HTML, CSS and Javascript.
 
-[I]
+[In]
