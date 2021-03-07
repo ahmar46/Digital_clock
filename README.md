@@ -1,4 +1,4 @@
-### This is a nice looking digital clo
+### This is a nice looking digital cloc
 
 ### Follow me on instagram - @electrifying_codes.
 
