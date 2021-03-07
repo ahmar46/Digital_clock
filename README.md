@@ -1,4 +1,4 @@
-### This is a nice looking digital
+### This is a nice looking digital c
 
 ### Follow me on instagram - @electrifying_codes.
 
