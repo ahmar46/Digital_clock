@@ -1,4 +1,4 @@
-### This is a nice looking digita
+### This is a nice looking digital
 
 ### Follow me on instagram - @electrifying_codes.
 
