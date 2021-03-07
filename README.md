@@ -1,4 +1,4 @@
-### This is a nice looking digital cloc
+### This is a nice looking digital clock
 
 ### Follow me on instagram - @electrifying_codes.
 
