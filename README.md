@@ -1,4 +1,4 @@
-### This is a nice looking digi
+### This is a nice looking digit
 
 ### Follow me on instagram - @electrifying_codes.
 
