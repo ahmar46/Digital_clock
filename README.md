@@ -1,6 +1,6 @@
 ### This is a nice looking digital clock.
 
-### Follow me on instagram - [@electrifying_codes][Ins].
+### Follow me on instagram - [@electrifying_codes][Inst].
 
 ### Technologies used :- HTML, CSS and Javascript.
 
